@@ -1,0 +1,47 @@
+@font-face
+{
+	font-family: 'ProximaNova-Light';
+	src: url('ProximaNova-Light.otf');
+}
+body {
+	font-family:'ProximaNova-Light',Helvetica,Arial,sans-serif !important;
+}
+#home{
+    background-attachment: fixed;
+    background-color: grey;
+    background-position: left 40px;
+    background-repeat: no-repeat;
+}
+#home .jumbotron{
+	padding:10px !important;
+}
+#home  hr{
+	border-color:black !important;
+}
+.login_form{
+/*     background: none repeat scroll 0 0 #62A901; */
+    padding: 12px;
+	border-radius:10px;
+	border:1px solid;
+}
+/* .login_form label {
+    color: #FFFFFF;
+}
+.login_form h3 {
+    color: #FFFFFF;
+} */
+.navbar-custom{
+	    background: none repeat scroll 0 0 #328337;
+		border-radius:0px !important;
+}
+.post_area{
+	width:800px;
+}
+.block{
+	display:block;
+	font-weight:normal !important;
+}
+#photos {
+    height: 222px !important;
+    width: 202px !important;
+}
